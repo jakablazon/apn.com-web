@@ -1,11 +1,20 @@
 h1 {
-	font-family: Monsterrat-Regular, serif;
-	color: white;
+
+	width: 272px;
+	height: 123px;
+	font-size: 54px;
+	font-face: Montserrat-Regular,serif;
+	letter-spacing: 1.5px;
+	color: #ffffff;
 }
 
 
 body {
 	background-image: url(assets/rectangle-1.png);
+	background-size: cover;
+	width: 1024px;
+	height: 1024px;
+	no-repeat center center fixed;
 }
 
 
